@@ -1,0 +1,38 @@
+
+1. Estados 
+    char homem = 'e' ou 'd'
+    char lobo = 'e' ou 'd'
+    char carneiro = 'e' ou 'd'
+    char alface = 'e' ou 'd'
+    Estado Inicial
+       homem = 'e'
+       lobo = 'e'
+       carneiro = 'e'
+       alface = 'e'
+       
+    Estado Final
+       homem = 'd'
+       lobo = 'd'
+       carneiro = 'd'
+       alface = 'd'
+        
+2. Regras de Transição - metodos
+
+    R1- levarNada()
+    R2 - levarLobo()
+    R3 - levarCarneiro()
+    R4 - levarAlface()
+    
+3. Restrições: ehValido()
+    if (homem != lobo E lobo==carneiro) OU (homem != carneiro E carneiro == alface)
+        retorna falso
+    retorna verdadeiro
+    
+4. Visitados ou gerados
+    concatenar homem + lobo + carneiro + alface
+    ex.: "eeee".... "dddd"
+    
+5.Meta ou Objetivo: ehMeta()
+    if (homem=='d' E lobo=='d' E carneiro=='d' E alface=='d')
+        retorna verdadeiro
+    retorna falso    
