@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/HD16GB/codigos/tecnicasIA/3 - AG/c#/CodigoAG/codigoAG.csproj": {}
+    "C:\\Users\\jvgam\\OneDrive\\Área de Trabalho\\JV\\ATIVIDADES FACUL\\5º SEMESTRE\\INTELIGENCIA ARTIFICIAL\\Tecnicas-IA\\Algoritmos Genéticos - Aula 02.04\\c#\\CodigoAG\\codigoAG.csproj": {}
   },
   "projects": {
-    "/Volumes/HD16GB/codigos/tecnicasIA/3 - AG/c#/CodigoAG/codigoAG.csproj": {
+    "C:\\Users\\jvgam\\OneDrive\\Área de Trabalho\\JV\\ATIVIDADES FACUL\\5º SEMESTRE\\INTELIGENCIA ARTIFICIAL\\Tecnicas-IA\\Algoritmos Genéticos - Aula 02.04\\c#\\CodigoAG\\codigoAG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/HD16GB/codigos/tecnicasIA/3 - AG/c#/CodigoAG/codigoAG.csproj",
+        "projectUniqueName": "C:\\Users\\jvgam\\OneDrive\\Área de Trabalho\\JV\\ATIVIDADES FACUL\\5º SEMESTRE\\INTELIGENCIA ARTIFICIAL\\Tecnicas-IA\\Algoritmos Genéticos - Aula 02.04\\c#\\CodigoAG\\codigoAG.csproj",
         "projectName": "codigoAG",
-        "projectPath": "/Volumes/HD16GB/codigos/tecnicasIA/3 - AG/c#/CodigoAG/codigoAG.csproj",
-        "packagesPath": "/Users/alexandrezamberlan/.nuget/packages/",
-        "outputPath": "/Volumes/HD16GB/codigos/tecnicasIA/3 - AG/c#/CodigoAG/obj/",
+        "projectPath": "C:\\Users\\jvgam\\OneDrive\\Área de Trabalho\\JV\\ATIVIDADES FACUL\\5º SEMESTRE\\INTELIGENCIA ARTIFICIAL\\Tecnicas-IA\\Algoritmos Genéticos - Aula 02.04\\c#\\CodigoAG\\codigoAG.csproj",
+        "packagesPath": "C:\\Users\\jvgam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jvgam\\OneDrive\\Área de Trabalho\\JV\\ATIVIDADES FACUL\\5º SEMESTRE\\INTELIGENCIA ARTIFICIAL\\Tecnicas-IA\\Algoritmos Genéticos - Aula 02.04\\c#\\CodigoAG\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/alexandrezamberlan/.config/NuGet/NuGet.Config"
+          "C:\\Users\\jvgam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,11 +58,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
