@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 No implementation found for style `graphicx'
 No implementation found for style `titlesec'
 No implementation found for style `hyperref'
 couldn't convert character inodot into available encodings
+=======
+No implementation found for style `graphicx'
+No implementation found for style `titlesec'
+No implementation found for style `hyperref'
+couldn't convert character inodot into available encodings
+>>>>>>> 022ab491887dc7d4e34ef852b1005a90beb3c231

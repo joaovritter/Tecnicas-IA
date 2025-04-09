@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
+=======
+Manifest-Version: 1.0
+>>>>>>> 022ab491887dc7d4e34ef852b1005a90beb3c231
 Main-Class: util.AppletDemoBusca
